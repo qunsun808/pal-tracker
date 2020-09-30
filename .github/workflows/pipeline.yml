@@ -1,4 +1,4 @@
-name: Pal Tracker Pipeline
+gradlename: Pal Tracker Pipeline
 
 on:
   push:
